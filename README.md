@@ -3,7 +3,7 @@
 This is a simple calculator application that performs the basic math operations (floating number included)
 
 <div>
-  <img src="./assets/Exemple Image.png"/>
+  <img src="./assets/Example Image 1.png"/>
 </div>
 
 ### Technologies Used
